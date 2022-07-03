@@ -1,0 +1,47 @@
+header {
+  display: block;
+  background-color: #007765;
+  top: 0;
+  left: 0;
+  width: 1294px;
+  height: 84px;
+  position: fixed;
+}
+a {
+  color: white;
+  text-decoration: none;
+}
+nav {
+  display: inline-block;
+  color: white;
+  margin-left: 521px;
+  margin-top: 25px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-size: 24px;
+  font-weight: 500;
+}
+.logo {
+  margin-top: 20px;
+  margin-left: 55.04px;
+  float: inline-start;
+}
+.nano-image {
+  height: 403px;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+section.piper {
+  background-image: url(files/nano-image.png);
+  background-size: cover;
+  margin-top: 84px;
+  padding-top: 160px;
+  padding-bottom: 160px;
+  width: 1294px;
+  text-align: left;
+}
+.pipernet {
+  text-align: center;
+  color: white;
+}
